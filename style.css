@@ -17,3 +17,14 @@ main h2 {
 footer {
     background-color: cornflowerblue;
 }
+
+.pc {
+    display: flex;
+    justify-content: center;
+}
+
+
+.details {
+    display: flex;
+    justify-content: center;
+}
